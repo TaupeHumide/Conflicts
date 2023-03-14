@@ -1,3 +1,4 @@
+REMOTE
 # Conflicts
 da
 dsa
